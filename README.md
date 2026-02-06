@@ -1,11 +1,11 @@
 <div align="center">
   
 # 👋 Hey there, I'm ThePawlow!
-
 ### 🎮 Currently Creating Hytale Mods & Tools
 
 [![GitHub followers](https://img.shields.io/github/followers/ThePawlow?style=social)](https://github.com/ThePawlow)
 [![GitHub stars](https://img.shields.io/github/stars/ThePawlow?style=social)](https://github.com/ThePawlow)
+[![Ko-fi](https://img.shields.io/badge/Support%20me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/E1E5H93UN)
 
 </div>
 
@@ -59,7 +59,8 @@ Full-stack developer passionate about game modding, web technologies, and buildi
 <div align="center">
   
 ### 💬 Let's Connect!
-
 *Open to collaborating on Hytale projects and web development*
+
+<sub>Enjoying my work? Consider [supporting me on Ko-fi](https://ko-fi.com/E1E5H93UN) ☕</sub>
 
 </div>
